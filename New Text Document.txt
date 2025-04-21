@@ -1,0 +1,3 @@
+Ollama Path
+
+C:\Users\Special\.ollama
